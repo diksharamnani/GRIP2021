@@ -6,6 +6,5 @@ Task 1: Supervised Learning (Machine Learning) In this regression task we will p
 
 # TASK 2 Exploratory Data Analysis on Global Terrorism
 
-Task 2: Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ As a security/defense analyst, try to find out the hot zone of terrorism. What all security issues and insights you can derive by EDA?
-
-Dataset- https://bit.ly/2TK5Xn5
+Task 2: Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ As a security/defense analyst, try to find out the hot zone of terrorism. As well as what all security issues and insights you can derive by EDA
+Dataset used- https://bit.ly/2TK5Xn5
